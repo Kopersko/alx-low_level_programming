@@ -1,2 +1,2 @@
-!/bash
-gcc"4-main.c"
+#!/bin/bash
+gcc 4-main.c
