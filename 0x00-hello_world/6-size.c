@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-	printf("sizeof(Char, Int, Float, Double");
+	printf("sizeof( Char, Int,float, double)");
 	return (0);
 }
