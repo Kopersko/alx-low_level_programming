@@ -9,8 +9,9 @@
 int main(void)
 {
 	char alphabet[] = "abcdefghijklmnopqrstuvwxyz";
+	int i = 0;
 
-	for (int i = 0; i < 26 ; i++)
+	while (alphabet[i] != '\0')
 	{
 		putchar(alphabet[i]);
 	}
